@@ -9,8 +9,9 @@ public class MockAccountService : IAccountService
         await Task.Delay(300);
 
         return new AccountSummary(
-            OrderCount: 12,
+            OrderCount: 99,
             WishlistCount: 5,
-            MembershipTier: "Gold");
+            MembershipTier: "Platinum"
+        );
     }
 }

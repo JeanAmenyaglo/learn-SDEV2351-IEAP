@@ -7,14 +7,6 @@
 
 <h3>Form Wizard -- Step 2 of 3</h3>
 
-@* ============================================================ *@
-@* PRACTICE 3 (take-home stretch): Add a route guard here.                  *@
-@*                                                               *@
-@* TODO: Override OnInitialized                                  *@
-@* TODO: Check if FormState.Value.CompletedSteps contains step 1 *@
-@* TODO: If step 1 is not completed, redirect to "/form/step1"  *@
-@* ============================================================ *@
-
 <div class="card">
     <div class="card-body">
         <h5 class="card-title">Contact Details</h5>
@@ -35,6 +27,17 @@
 </div>
 
 @code {
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        if (!FormState.Value.CompletedSteps.Contains(1))
+        {
+            Navigation.NavigateTo("/form/step1");
+            return;
+        }
+    }
+
     private void CompleteAndNext()
     {
         Dispatcher.Dispatch(new CompleteStepAction(2));

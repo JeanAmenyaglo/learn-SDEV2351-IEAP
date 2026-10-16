@@ -63,8 +63,6 @@ C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06
 C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
 C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\scopedcss\bundle\Day06Practice.styles.css
 C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\compressed\m3nktqfq1u-{0}-2idzifoxh6-2idzifoxh6.gz
-C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\compressed\g2spebbm1v-{0}-b9228eflpl-b9228eflpl.gz
-C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\compressed\f9t5c9hpp0-{0}-2tj1sjhksk-2tj1sjhksk.gz
 C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\staticwebassets.build.json
 C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\staticwebassets.development.json
@@ -73,3 +71,5 @@ C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06
 C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\Day06Pra.A57BA4ED.Up2Date
 C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\Day06Practice.genruntimeconfig.cache
 C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\ref\Day06Practice.dll
+C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\compressed\g2spebbm1v-{0}-9hsif5t8mt-9hsif5t8mt.gz
+C:\Enterprise Application Progamming\Day_6\Day-06-Practice-Starter\bs-starter-06\Day06Practice\obj\Debug\net10.0\compressed\f9t5c9hpp0-{0}-dwu72t6gfx-dwu72t6gfx.gz
